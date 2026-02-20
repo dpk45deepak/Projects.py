@@ -1,0 +1,15 @@
+[project]
+name = "foodorderdataset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.129.0",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.19.0",
+    "uvicorn>=0.41.0",
+]
